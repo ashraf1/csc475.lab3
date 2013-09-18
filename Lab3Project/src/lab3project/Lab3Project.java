@@ -7,7 +7,7 @@ package lab3project;
 
 /**
  *
- * @author s0232472
+ * @authors: Mike Chambers and Mohamed Fadili
  */
 public class Lab3Project
 {
